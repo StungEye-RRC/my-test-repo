@@ -1,12 +1,12 @@
 Name: John Doe
-Email: [Ghost] johndoe@example.com
+Email: [Person] johndoe@example.com
 Status: active
 
 Name: Jane Smith
-Email: [Ghost] janesmith@example.com
+Email: [Person] janesmith@example.com
 Status: active
 
-Name: John Doe
+Name: Wally Glutton
 Email: [Ghost] johndoe@example.com
 Status: active
 
