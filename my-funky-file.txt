@@ -2,8 +2,8 @@ Name: John Doe
 Email: [Person] johndoe@example.com
 Status: active
 
-Name: Jane Smith
-Email: [Person] janesmith@example.com
+Name: Daisy Glutton
+Email: [ghost] dglutton@example.com
 Status: active
 
 Name: Wally Glutton
