@@ -1,1 +1,5 @@
-After the initial commit. About to commit again.
+About to commit again.
+
+Making changes to this file.
+
+These changes will be committed. 
