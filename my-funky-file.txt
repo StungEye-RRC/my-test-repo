@@ -10,3 +10,7 @@ Name: John Doe
 Email: [Ghost] johndoe@example.com
 Status: active
 
+Name: Jane Smith
+Email: [Ghost] janesmith@example.com
+Status: active
+
